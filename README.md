@@ -1,2 +1,5 @@
-# code-library
+# code library
+
 My Code Library - Script, API and Widget Collections.
+
+## MIT
