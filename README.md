@@ -2,4 +2,6 @@
 
 My Code Library - Script, API and Widget Collections.
 
-## MIT
+## LICENSE
+
+MIT
